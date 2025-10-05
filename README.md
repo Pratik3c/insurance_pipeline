@@ -1,17 +1,18 @@
 # 🚀 Real-Time Insurance Claims Data Pipeline  
-[Read the full detailed guide on Hashnode →](#)
+[Read the full detailed guide on Hashnode →](https://hashnode.com/draft/68dff0d291a0075efc22a269)
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![DBT](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-0097D8?logo=airbyte&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
 
 ---
 
 ## 🧩 Overview  
-A **beginner-friendly real-time data pipeline** for **insurance claims** — from **MongoDB (OLTP)** to **Snowflake (OLAP)** using **Airbyte**, **DBT**, and **Power BI**.  
+A **beginner-friendly real-time data pipeline** for **insurance claims** — from **MongoDB (OLTP)** to **Snowflake (OLAP)** using **Airbyte**, **DBT**, and **Tableau**.  
 Simulate real-world data, transform it, and visualize actionable insights — all in one flow.
 
 ---
@@ -22,7 +23,7 @@ Simulate real-world data, transform it, and visualize actionable insights — al
 - 🧮 **DBT** → SQL-based transformations  
 - ☁️ **Snowflake** → Cloud Data Warehouse  
 - 🐍 **Python** → Data simulation  
-- 📊 **Power BI** → Business intelligence dashboards  
+- 📊 **Tableau** → Business intelligence dashboards  
 
 ---
 
@@ -31,14 +32,14 @@ Simulate real-world data, transform it, and visualize actionable insights — al
 - NoSQL → Cloud → BI pipeline  
 - Real-time sync via Airbyte  
 - Transform data with DBT  
-- Visualize insights in Power BI  
+- Visualize insights in Tableau
 
 ---
 
 ## 📂 Repository Structure
 
 ```text
-insurance-nosql-pipeline/
+insurance-pipeline/
 ├── data-generator/                        # Simulated JSON data generator
 │   ├── Simulator.py
 ├── ins_dbt/                               # DBT project
@@ -53,4 +54,4 @@ insurance-nosql-pipeline/
 ---
 
 👉 Dive deeper into setup, configuration, and visualization in the  
-**[Full Step-by-Step Tutorial on Hashnode](#)** ✨
+**[Full Step-by-Step Tutorial on Hashnode](https://hashnode.com/draft/68dff0d291a0075efc22a269)** ✨
